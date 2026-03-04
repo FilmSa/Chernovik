@@ -11,7 +11,7 @@
 | **Среднее количество открытий карты** | ≈1.7/день | Google Maps: ~50 сессий/мес ⇒ 50/30≈1.7 сессии/день ([2](https://localzen.com/blog/google-maps-statistics-and-interesting-facts/)) |
 | **Поисковые запросы (всего)** | >20.5 млн/сут | “processing more than 20.5 million search queries daily” (company data, 2021) ([3](https://en.wikipedia.org/wiki/2GIS)) |
 | **Среднее количество поисковых запросов на пользователя** | ≈1.0/день | **Вывод:** 20.5 млн поисков/сут ÷ 20 млн DAU ≈ 1.0/польз/день. (по строкам выше) |
-| **Среднее количество просмотров карточек организаций** | ≈1.17/день | **Вывод:** ~1.0 поиска/день × 1.17 клика/поиск (clickthrough). Joachims: “average number of clicks per query is 1.17” ([4](https://www.cs.cornell.edu/~tj/publications/joachims_02b.pdf)) |
+| **Среднее количество просмотров карточек организаций** | ≈1.17/день | **Вывод:** ~1.0 поиска/день × 1.17 клика/поиск [clickthrough](https://www.cs.cornell.edu/people/tj/publications/joachims_02b.pdf). Joachims: “average number of clicks per query is 1.17” ([4](https://www.cs.cornell.edu/~tj/publications/joachims_02b.pdf)) |
 | **Среднее количество построений маршрута** | 0.7/день | **Допущение** (публичной метрики «routes per user/day» для 2ГИС/Google Maps нет; используем консервативную оценку для навигационного сервиса) |
 | **Использование тематических слоёв (пробки/транспорт)** | 0.5/день | **Допущение** (публичной метрики “traffic layer usage per user/day” нет) |
 | **Загрузка офлайн-карт** | 0.02/день | **Допущение:** ~1 загрузка/обновление раз в 50 дней (редкое событие) |
